@@ -1,1 +1,1 @@
-# javascript_photo_slider
+### Photo slider built using HTML, CSS Grid and Javascript.
